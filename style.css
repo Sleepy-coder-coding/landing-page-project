@@ -129,6 +129,9 @@ body {
     width: 150px;
     height: 150px;
 }
+.information-subtext {
+    text-align: center;
+}
 .quote-container {
     display: flex;
     height:400px;
